@@ -101,7 +101,7 @@ This assignment involved debugging and deploying a Dockerized application with a
 
 ## Bonus Cloud Deployment
 Deployed the application on a cloud server for external access.
-Access URL: `[insert server IP or DNS]`
+Access URL: `[will post after deployment]`
 
 ## Conclusion
 This assignment involved identifying multiple intentional errors across Dockerfiles, `docker-compose.yml`, and configuration files. By documenting each issue and resolution, I demonstrated a systematic approach to debugging a Dockerized application.
